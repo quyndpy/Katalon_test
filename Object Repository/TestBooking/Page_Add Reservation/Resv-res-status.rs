@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Resv-res-status</name>
+   <tag></tag>
+   <elementGuidId>8afbb0b4-9790-4603-9e5e-ac23b45ced0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>dx-select-box.dx-validator.dx-visibility-change-handler.dx-show-invalid-badge.dx-selectbox.dx-textbox.dx-texteditor.dx-dropdowneditor-button-visible.dx-editor-outlined.dx-widget.dx-dropdowneditor.dx-dropdowneditor-field-clickable.dx-state-active > div.dx-dropdowneditor-input-wrapper.dx-selectbox-container > div.dx-texteditor-container > div.dx-texteditor-buttons-container > div.dx-button-normal.dx-button-mode-contained.dx-widget.dx-dropdowneditor-button > div.dx-button-content > div.dx-dropdowneditor-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RESV-RES_STATUS']/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Definite&quot;i] >> internal:label=&quot;Select&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>295303cf-f377-4ad7-97e7-42552c391f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-dropdowneditor-icon</value>
+      <webElementGuid>86d9e13c-a401-4ae1-be06-bffd0d746b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RESV-RES_STATUS&quot;)/div[@class=&quot;dx-field-value&quot;]/ccb[1]/div[1]/dx-select-box[@class=&quot;dx-validator dx-visibility-change-handler dx-show-invalid-badge dx-selectbox dx-textbox dx-texteditor dx-dropdowneditor-button-visible dx-editor-outlined dx-widget dx-dropdowneditor dx-dropdowneditor-field-clickable dx-state-active&quot;]/div[@class=&quot;dx-dropdowneditor-input-wrapper dx-selectbox-container&quot;]/div[@class=&quot;dx-texteditor-container&quot;]/div[@class=&quot;dx-texteditor-buttons-container&quot;]/div[@class=&quot;dx-button-normal dx-button-mode-contained dx-widget dx-dropdowneditor-button&quot;]/div[@class=&quot;dx-button-content&quot;]/div[@class=&quot;dx-dropdowneditor-icon&quot;]</value>
+      <webElementGuid>108888b5-412b-45bd-91d6-d65d916da515</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RESV-RES_STATUS']/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>abdbff76-39f6-42fa-81c5-607bab040104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/core-layout/ngx-dnd-container/div/ngx-dnd-item[3]/div/div/item-layout/div/div/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>a4221626-b0ab-465c-bcaa-9476ba8ffb0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

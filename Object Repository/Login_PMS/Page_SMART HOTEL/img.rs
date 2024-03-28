@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>428224c0-26d1-4cf7-9ba7-43f7c48b6665</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PMS Properties Management System&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3a547270-3f40-423d-b066-469b57f7c2bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>./assets/images/PMS.png</value>
+      <webElementGuid>5afa339a-8b9d-40cf-a354-4a84b0763bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;wrapper fw&quot;]/div[@class=&quot;appContent&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row systemContent&quot;]/div[@class=&quot;systemItem col-lg-4 col-6 col-md-4&quot;]/a[1]/div[@class=&quot;itemContent&quot;]/img[1]</value>
+      <webElementGuid>437072c8-dcdc-4023-83b0-ae1baf31b647</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>fe4d03b7-98f2-41da-8ac4-240614954950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = './assets/images/PMS.png']</value>
+      <webElementGuid>3fe0a29b-04fb-41a5-a3bd-94531b3528ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

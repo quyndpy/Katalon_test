@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>resv-arrival-date</name>
+   <tag></tag>
+   <elementGuidId>c69cffc8-c332-4148-98d7-961d7b6a868d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>dx-date-box.dx-validator.dx-visibility-change-handler.dx-show-invalid-badge.dx-datebox.dx-textbox.dx-texteditor.dx-dropdowneditor-button-visible.dx-widget.dx-auto-width.dx-dropdowneditor.dx-editor-outlined.dx-datebox-date.dx-datebox-calendar.dx-state-focused.dx-state-active > div.dx-dropdowneditor-input-wrapper > div.dx-texteditor-container > div.dx-texteditor-buttons-container > div.dx-button-normal.dx-button-mode-contained.dx-widget.dx-dropdowneditor-button > div.dx-button-content > div.dx-dropdowneditor-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RESV-ARRIVAL_DATE']/div/cdt/dx-date-box/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#RESV-ARRIVAL_DATE >> internal:label=&quot;Select&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8348a6cd-eec7-4b21-8caa-0097b02c05a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-dropdowneditor-icon</value>
+      <webElementGuid>68fbdaec-bcea-4778-8187-ace684beec80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RESV-ARRIVAL_DATE&quot;)/div[@class=&quot;dx-field-value&quot;]/cdt[1]/dx-date-box[@class=&quot;dx-validator dx-visibility-change-handler dx-show-invalid-badge dx-datebox dx-textbox dx-texteditor dx-dropdowneditor-button-visible dx-widget dx-auto-width dx-dropdowneditor dx-editor-outlined dx-datebox-date dx-datebox-calendar dx-state-focused dx-state-active&quot;]/div[@class=&quot;dx-dropdowneditor-input-wrapper&quot;]/div[@class=&quot;dx-texteditor-container&quot;]/div[@class=&quot;dx-texteditor-buttons-container&quot;]/div[@class=&quot;dx-button-normal dx-button-mode-contained dx-widget dx-dropdowneditor-button&quot;]/div[@class=&quot;dx-button-content&quot;]/div[@class=&quot;dx-dropdowneditor-icon&quot;]</value>
+      <webElementGuid>f353eaa1-0cd5-4718-8d9d-d7713b18bea4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RESV-ARRIVAL_DATE']/div/cdt/dx-date-box/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>728b06cc-ee9e-4b3a-b064-84a7566bd44a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dx-date-box/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>5e9096ac-b3d7-404a-8b0a-87266b259a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

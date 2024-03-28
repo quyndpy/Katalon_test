@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__dx-dropdowneditor-icon_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>d97e3e08-dca5-4d23-bb27-77ecb4a723b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dx-dropdowneditor-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RESV-MARKET_PLACE_ID']/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#RESV-MARKET_PLACE_ID >> internal:label=&quot;Select&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18885087-0871-4427-97f4-23be18765f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-dropdowneditor-icon</value>
+      <webElementGuid>cbd41b87-c3db-4077-a364-9eed03b5fc21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RESV-MARKET_PLACE_ID&quot;)/div[@class=&quot;dx-field-value&quot;]/ccb[1]/div[1]/dx-select-box[@class=&quot;dx-validator dx-visibility-change-handler dx-show-invalid-badge dx-selectbox dx-textbox dx-texteditor dx-dropdowneditor-button-visible dx-editor-outlined dx-texteditor-empty dx-widget dx-dropdowneditor dx-dropdowneditor-field-clickable dx-state-active&quot;]/div[@class=&quot;dx-dropdowneditor-input-wrapper dx-selectbox-container&quot;]/div[@class=&quot;dx-texteditor-container&quot;]/div[@class=&quot;dx-texteditor-buttons-container&quot;]/div[@class=&quot;dx-button-normal dx-button-mode-contained dx-widget dx-dropdowneditor-button&quot;]/div[@class=&quot;dx-button-content&quot;]/div[@class=&quot;dx-dropdowneditor-icon&quot;]</value>
+      <webElementGuid>54c31d06-dc8a-44de-b50e-45b0804ecddd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RESV-MARKET_PLACE_ID']/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>79171344-6be0-4eca-af80-e1945d5455ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>75ee8d08-04df-443d-8f4d-0de8aa00a4aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

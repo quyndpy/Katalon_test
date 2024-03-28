@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Save</name>
+   <tag></tag>
+   <elementGuidId>96efef9c-b016-4a15-87b6-ae3dd7370494</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>dx-button.dx-button.dx-button-default.dx-button-mode-contained.dx-widget.dx-button-has-icon.dx-button-has-text.dx-state-focused.dx-state-active > div.dx-button-content > span.dx-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Save&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a2b08fb-e898-4cec-864c-17b5cf78c423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-button-text</value>
+      <webElementGuid>7f21ee92-a91b-4ff3-820d-4deefa81aabf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>9626d388-5ab7-46b7-9ac0-11d72fdc2bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dx-viewport dx-theme-generic dx-theme-generic-typography dx-color-scheme-greenmist&quot;]/div[@class=&quot;dx-overlay-wrapper popup dx-popup-wrapper dx-overlay-modal dx-overlay-shader&quot;]/div[@class=&quot;dx-overlay-content dx-popup-normal dx-resizable&quot;]/div[@class=&quot;dx-popup-content&quot;]/div[@class=&quot;fw dx-template-wrapper&quot;]/module-container[@class=&quot;fw&quot;]/div[@class=&quot;module-box&quot;]/m02[1]/div[@class=&quot;simulators Web light&quot;]/div[@class=&quot;demo-device&quot;]/div[@id=&quot;module&quot;]/div[@class=&quot;module-content&quot;]/div[@class=&quot;module-toolbar btn-check&quot;]/toolbar[@class=&quot;execBtn_MT02&quot;]/div[@class=&quot;fw toolbar&quot;]/div[@class=&quot;btn-toolbar float-left&quot;]/dx-button[@class=&quot;dx-button dx-button-default dx-button-mode-contained dx-widget dx-button-has-icon dx-button-has-text dx-state-focused dx-state-active&quot;]/div[@class=&quot;dx-button-content&quot;]/span[@class=&quot;dx-button-text&quot;]</value>
+      <webElementGuid>99de7516-7983-4c16-9a77-d12fc6cb7bbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='module']/div[2]/div/toolbar/div/div/dx-button/div/span)[3]</value>
+      <webElementGuid>44603d7f-8da4-4383-bfe7-d35fd2ecf2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[10]/following::span[1]</value>
+      <webElementGuid>9244918b-52bd-4687-90b3-c9d2bda761a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voucher No'])[2]/following::span[1]</value>
+      <webElementGuid>6e23971e-a120-4c73-b440-351ad8a132d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::span[1]</value>
+      <webElementGuid>1e4528c0-ecab-4a21-b73e-ffcfe2ecffee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PMS - Properties Management System'])[2]/preceding::span[2]</value>
+      <webElementGuid>b3554752-1a99-410f-9575-9241b1afdd7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>ec3b9933-e5af-4f1b-984b-4ab16501cc05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/module-container/div/m02/div/div/div/div[2]/div/toolbar/div/div/dx-button/div/span</value>
+      <webElementGuid>e69840ad-008d-47ea-aa52-b41e4ffd8338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>cee67099-73ad-41b8-ac6d-13610f1bc07c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

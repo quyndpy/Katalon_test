@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_29</name>
+   <tag></tag>
+   <elementGuidId>53bdd9c7-65cf-4cb4-86f3-f32ffb8b4f59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '29' or . = '29')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@class='dx-calendar-cell' and @data-value='2024/03/29']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-value='2024/03/08']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Friday, March 29, 2024&quot;i >> internal:text=&quot;29&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a3554a9-de56-4225-8326-35f551ebf54f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>29</value>
+      <webElementGuid>b611fbad-d2f9-4d86-86be-223a493df876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dx-f597e994-5dcb-2cd7-77ba-9544210e216e&quot;)/div[@class=&quot;dx-show-invalid-badge dx-widget dx-visibility-change-handler dx-calendar dx-calendar-view-month dx-swipeable&quot;]/div[@class=&quot;dx-calendar-body&quot;]/div[@class=&quot;dx-calendar-views-wrapper&quot;]/div[@class=&quot;dx-widget dx-state-hover&quot;]/table[1]/tbody[1]/tr[5]/td[@class=&quot;dx-calendar-cell dx-state-active&quot;]/span[1]</value>
+      <webElementGuid>98f31fba-dff5-4c07-9a4c-f830eb03a8dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dx-f597e994-5dcb-2cd7-77ba-9544210e216e']/div/div/div/div/table/tbody/tr[5]/td[6]/span</value>
+      <webElementGuid>265d873d-370f-4b8b-b29b-e434b811b8cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[34]</value>
+      <webElementGuid>24fc7bb3-bd34-484d-a634-be73604ec86a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::span[34]</value>
+      <webElementGuid>4f4ee72a-51c7-4229-9cba-f4e0c3318273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[2]/preceding::span[9]</value>
+      <webElementGuid>eac52236-2dce-4a5d-8bb5-3f18feb0c5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon'])[2]/preceding::span[9]</value>
+      <webElementGuid>4621a2f6-5306-45ea-9c52-02fc230fb609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[6]/span</value>
+      <webElementGuid>64552c51-5a13-4e03-b610-cd07ae6b797b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '29' or . = '29')]</value>
+      <webElementGuid>2ef0dddf-cd8b-4f23-82c6-cd516774aa76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

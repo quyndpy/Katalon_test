@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Rate Code_dx-dropdowneditor-icon</name>
+   <tag></tag>
+   <elementGuidId>e19aae7f-66af-4dde-8873-ea16d762b2d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>dx-select-box.dx-validator.dx-visibility-change-handler.dx-show-invalid-badge.dx-selectbox.dx-textbox.dx-texteditor.dx-dropdowneditor-button-visible.dx-editor-outlined.dx-texteditor-empty.dx-widget.dx-dropdowneditor.dx-dropdowneditor-field-clickable.dx-invalid.dx-state-active > div.dx-dropdowneditor-input-wrapper.dx-selectbox-container > div.dx-texteditor-container > div.dx-texteditor-buttons-container > div.dx-button-normal.dx-button-mode-contained.dx-widget.dx-dropdowneditor-button > div.dx-button-content > div.dx-dropdowneditor-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RESV-RATE_CODE']/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#RESV-RATE_CODE >> internal:label=&quot;Select&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01e51e48-2069-4f20-b3d3-c634224eb2a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-dropdowneditor-icon</value>
+      <webElementGuid>2a083987-f8c1-42b4-a57a-251cece22a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RESV-RATE_CODE&quot;)/div[@class=&quot;dx-field-value&quot;]/ccb[1]/div[1]/dx-select-box[@class=&quot;dx-validator dx-visibility-change-handler dx-show-invalid-badge dx-selectbox dx-textbox dx-texteditor dx-dropdowneditor-button-visible dx-editor-outlined dx-texteditor-empty dx-widget dx-dropdowneditor dx-dropdowneditor-field-clickable dx-invalid dx-state-active&quot;]/div[@class=&quot;dx-dropdowneditor-input-wrapper dx-selectbox-container&quot;]/div[@class=&quot;dx-texteditor-container&quot;]/div[@class=&quot;dx-texteditor-buttons-container&quot;]/div[@class=&quot;dx-button-normal dx-button-mode-contained dx-widget dx-dropdowneditor-button&quot;]/div[@class=&quot;dx-button-content&quot;]/div[@class=&quot;dx-dropdowneditor-icon&quot;]</value>
+      <webElementGuid>f3c976d1-58bc-4474-bd9f-2e55d108ff65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RESV-RATE_CODE']/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>43cf52bf-9d2d-47a7-9d15-6c227ebcb833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-dnd-item[2]/div/div/column-layout/div/div[2]/core-layout/ngx-dnd-container/div/ngx-dnd-item/div/div/item-layout/div/div/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>10d1c63d-9b54-4fa6-b2d3-dcc478f3d6e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

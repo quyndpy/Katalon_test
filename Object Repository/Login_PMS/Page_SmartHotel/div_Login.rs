@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login</name>
+   <tag></tag>
+   <elementGuidId>9f61503c-20ac-4e8a-a4ce-20d3ed4bfd6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dx-button-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In to your account'])[1]/following::div[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Login&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>571bdd18-e92d-4b85-93b1-dfab12104deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-button-content</value>
+      <webElementGuid>e53eb6fb-e1fc-4fe2-bdd4-98a8111bd58f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>d8d87b5e-4f0d-47d1-b456-5a9f1ade84a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dx-viewport dx-theme-generic dx-theme-generic-typography dx-color-scheme-greenmist&quot;]/app-root[@class=&quot;screen-small&quot;]/app-single-card[1]/dx-scroll-view[@class=&quot;full-height-scrollable dx-scrollable dx-scrollview dx-visibility-change-handler dx-scrollable-vertical dx-scrollable-simulated&quot;]/div[@class=&quot;dx-scrollable-wrapper&quot;]/div[@class=&quot;dx-scrollable-container&quot;]/div[@class=&quot;dx-scrollable-content&quot;]/div[@class=&quot;dx-scrollview-content&quot;]/div[@class=&quot;dx-card content&quot;]/app-login-form[1]/dx-validation-group[@class=&quot;dx-validationgroup&quot;]/div[@class=&quot;dx-field&quot;]/dx-button[@class=&quot;dx-button dx-button-default dx-button-mode-contained dx-widget dx-button-has-text dx-state-focused dx-state-active&quot;]/div[@class=&quot;dx-button-content&quot;]</value>
+      <webElementGuid>5a098072-de6c-4769-bccb-50e5e515f5a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In to your account'])[1]/following::div[14]</value>
+      <webElementGuid>67a087ab-c755-4bcf-8c8a-d566d7692ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refreshing...'])[1]/following::div[20]</value>
+      <webElementGuid>84f8d2e2-4a15-447a-8274-68aeb21abbfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::div[14]</value>
+      <webElementGuid>6a759fb5-36c2-4567-a076-aa774c625cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dx-button/div</value>
+      <webElementGuid>8c4c89d3-b686-4ff7-a995-cfa72807cfae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>1d909efa-fb14-4662-bb89-2cc801851ee2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

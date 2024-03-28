@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>667fd11b-6232-43fb-8dfa-10ec1af61c0e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17ee6519-8709-434f-91dd-ecd32b7be13b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>17ee6519-8709-434f-91dd-ecd32b7be13b</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

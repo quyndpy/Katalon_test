@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Reservations</name>
+   <tag></tag>
+   <elementGuidId>0389260f-fb30-484f-8423-8eb13978c895</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Reservations' or . = 'Reservations')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@aria-label='Reservations']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-item.dx-template-wrapper.dx-item-content.dx-treeview-item-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Reservations&quot;i >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca647028-f043-4780-ba91-5c0a8d1a0c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item dx-template-wrapper dx-item-content dx-treeview-item-content</value>
+      <webElementGuid>4d7bb95f-afc2-4f70-b268-e6e212720def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reservations</value>
+      <webElementGuid>f1698248-f2ee-4579-935f-ac40a331ffba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dx-b99db969-6e46-e598-d9d7-60251a59a62c&quot;)/div[@class=&quot;dx-item dx-treeview-item dx-state-hover&quot;]/div[@class=&quot;menu-item dx-template-wrapper dx-item-content dx-treeview-item-content&quot;]</value>
+      <webElementGuid>14aeece8-4d05-4555-af92-7f55e9dcd3e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='dx-b99db969-6e46-e598-d9d7-60251a59a62c']/div/div</value>
+      <webElementGuid>ea01dc78-f58a-4943-bf87-34d6f596a3df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST01'])[1]/following::div[20]</value>
+      <webElementGuid>9b80b380-67a1-4bfc-9927-b0060fa7341d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PMS - Properties Management System'])[1]/following::div[34]</value>
+      <webElementGuid>65488fdd-dd9d-400e-8983-df0e05dabcfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Front Desk'])[1]/preceding::div[2]</value>
+      <webElementGuid>58742aa3-25a5-460a-b0da-b1ea6af338b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div</value>
+      <webElementGuid>e6411c9c-4cdd-4d82-8784-8e6d4ead26e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Reservations' or . = 'Reservations')]</value>
+      <webElementGuid>2bda7867-ed17-417b-928b-d547f8548d97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

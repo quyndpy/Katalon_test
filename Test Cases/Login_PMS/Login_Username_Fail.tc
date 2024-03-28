@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Không nhập trường Username</description>
+   <name>Login_Username_Fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b964d8bd-74ae-487e-9b05-59e604c3a079</testCaseGuid>
+</TestCaseEntity>

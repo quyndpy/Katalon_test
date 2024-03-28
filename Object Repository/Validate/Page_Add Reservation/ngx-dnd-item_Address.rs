@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ngx-dnd-item_Address</name>
+   <tag></tag>
+   <elementGuidId>8d8636a7-f5ef-4721-af23-e6dc3339c2ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dx-c1d7c465-e7d6-403e-3409-52b3977e6b1a']/div/div/core-layout/ngx-dnd-container/div/ngx-dnd-item/div/div/column-layout/div/div/core-layout/ngx-dnd-container/div/ngx-dnd-item/div/div/group-layout/div/core-layout/ngx-dnd-container/div/ngx-dnd-item/div/div/column-layout/div/div/core-layout/ngx-dnd-container/div/ngx-dnd-item[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>ngx-dnd-item >> internal:has-text=&quot;Address&quot;i >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ngx-dnd-item</value>
+      <webElementGuid>7f05e91d-35ea-4528-ba3f-cf75147c3fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>move-disabled ngx-dnd-item</value>
+      <webElementGuid>d2a3dbfa-ca55-4d4d-a556-40587edd10fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Address </value>
+      <webElementGuid>da32e33a-94c3-49fc-bb29-13ab370c6045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dx-c1d7c465-e7d6-403e-3409-52b3977e6b1a&quot;)/div[@class=&quot;dx-template-wrapper dx-item-content dx-multiview-item-content&quot;]/div[@class=&quot;tabpanel-item&quot;]/core-layout[1]/ngx-dnd-container[1]/div[@class=&quot;ngx-dnd-container&quot;]/ngx-dnd-item[@class=&quot;move-disabled ngx-dnd-item&quot;]/div[@class=&quot;layout-it&quot;]/div[1]/column-layout[1]/div[1]/div[1]/core-layout[1]/ngx-dnd-container[1]/div[@class=&quot;ngx-dnd-container&quot;]/ngx-dnd-item[@class=&quot;move-disabled ngx-dnd-item&quot;]/div[@class=&quot;layout-it&quot;]/div[1]/group-layout[1]/div[@class=&quot;dx-fieldset layout-group&quot;]/core-layout[1]/ngx-dnd-container[1]/div[@class=&quot;ngx-dnd-container&quot;]/ngx-dnd-item[@class=&quot;move-disabled ngx-dnd-item&quot;]/div[@class=&quot;layout-it&quot;]/div[1]/column-layout[1]/div[1]/div[1]/core-layout[1]/ngx-dnd-container[1]/div[@class=&quot;ngx-dnd-container&quot;]/ngx-dnd-item[@class=&quot;move-disabled ngx-dnd-item&quot;]</value>
+      <webElementGuid>e4e314df-a888-4fe2-837b-6c14af9d6749</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dx-c1d7c465-e7d6-403e-3409-52b3977e6b1a']/div/div/core-layout/ngx-dnd-container/div/ngx-dnd-item/div/div/column-layout/div/div/core-layout/ngx-dnd-container/div/ngx-dnd-item/div/div/group-layout/div/core-layout/ngx-dnd-container/div/ngx-dnd-item/div/div/column-layout/div/div/core-layout/ngx-dnd-container/div/ngx-dnd-item[2]</value>
+      <webElementGuid>b846910a-b189-4ab9-a0c6-dfa409765555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name is required !'])[1]/following::ngx-dnd-item[1]</value>
+      <webElementGuid>59ae98cc-8c07-4e87-851e-b42fe64916e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::ngx-dnd-item[1]</value>
+      <webElementGuid>6e9514f3-f5ac-410c-8020-502af260ff35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/preceding::ngx-dnd-item[1]</value>
+      <webElementGuid>01e8ead1-2875-455c-83d1-0fa998f7e4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//group-layout/div/core-layout/ngx-dnd-container/div/ngx-dnd-item/div/div/column-layout/div/div/core-layout/ngx-dnd-container/div/ngx-dnd-item[2]</value>
+      <webElementGuid>8080f3c6-e0cc-4105-9105-56166ef66d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ngx-dnd-item[(text() = 'Address ' or . = 'Address ')]</value>
+      <webElementGuid>ec53b319-513f-4f36-adca-b786bcbea8dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

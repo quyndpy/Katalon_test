@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sale_Man</name>
+   <tag></tag>
+   <elementGuidId>bbfa2f87-84b6-4230-ba74-7915524b602c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>dx-select-box.dx-validator.dx-visibility-change-handler.dx-show-invalid-badge.dx-selectbox.dx-textbox.dx-texteditor.dx-dropdowneditor-button-visible.dx-editor-outlined.dx-widget.dx-dropdowneditor.dx-dropdowneditor-field-clickable.dx-state-active > div.dx-dropdowneditor-input-wrapper.dx-selectbox-container > div.dx-texteditor-container > div.dx-texteditor-buttons-container > div.dx-button-normal.dx-button-mode-contained.dx-widget.dx-dropdowneditor-button > div.dx-button-content > div.dx-dropdowneditor-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='02W07-SALE_MAN']/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Đặng Thị Gấm&quot;i] >> internal:label=&quot;Select&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55b29900-c12b-43e7-a153-03edf3ca30d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-dropdowneditor-icon</value>
+      <webElementGuid>8d6f5e63-a6cc-4e80-b651-e33663472a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;02W07-SALE_MAN&quot;)/div[@class=&quot;dx-field-value&quot;]/ccb[1]/div[1]/dx-select-box[@class=&quot;dx-validator dx-visibility-change-handler dx-show-invalid-badge dx-selectbox dx-textbox dx-texteditor dx-dropdowneditor-button-visible dx-editor-outlined dx-widget dx-dropdowneditor dx-dropdowneditor-field-clickable dx-state-active&quot;]/div[@class=&quot;dx-dropdowneditor-input-wrapper dx-selectbox-container&quot;]/div[@class=&quot;dx-texteditor-container&quot;]/div[@class=&quot;dx-texteditor-buttons-container&quot;]/div[@class=&quot;dx-button-normal dx-button-mode-contained dx-widget dx-dropdowneditor-button&quot;]/div[@class=&quot;dx-button-content&quot;]/div[@class=&quot;dx-dropdowneditor-icon&quot;]</value>
+      <webElementGuid>18f67ce6-a671-4e03-96c5-5e7224fdf3a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='02W07-SALE_MAN']/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>e87fa97e-7b76-4db6-8d43-91f507eff350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/core-layout/ngx-dnd-container/div/ngx-dnd-item[2]/div/div/item-layout/div/div/div/ccb/div/dx-select-box/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>da17343e-459f-4a0e-8ce0-63bd93a07a2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

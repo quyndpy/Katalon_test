@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BAR2</name>
+   <tag></tag>
+   <elementGuidId>936c5988-aa91-4371-a51d-bb1a6f118e11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dx-item.dx-list-item.dx-state-active > div.dx-template-wrapper.dx-item-content.dx-list-item-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dx-4de28d5d-2840-7b80-d3b3-daba5ebd7cbe']/div/div/div/div[2]/div[15]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;_ BAR2&quot;i] >> div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5caccacc-b5d4-4bcd-b746-930fb4a0755e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-template-wrapper dx-item-content dx-list-item-content</value>
+      <webElementGuid>53e811ea-6db4-4f98-a181-0e7d0438c229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BAR2</value>
+      <webElementGuid>291d02cc-7e3c-4ab7-b856-905a0efad093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dx-4de28d5d-2840-7b80-d3b3-daba5ebd7cbe&quot;)/div[@class=&quot;dx-scrollable-wrapper&quot;]/div[@class=&quot;dx-scrollable-container&quot;]/div[@class=&quot;dx-scrollable-content&quot;]/div[@class=&quot;dx-scrollview-content&quot;]/div[@class=&quot;dx-item dx-list-item dx-state-active&quot;]/div[@class=&quot;dx-template-wrapper dx-item-content dx-list-item-content&quot;]</value>
+      <webElementGuid>318346f4-262b-4cdc-a93e-1d5f3e2e7d77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dx-4de28d5d-2840-7b80-d3b3-daba5ebd7cbe']/div/div/div/div[2]/div[15]/div</value>
+      <webElementGuid>a3fdde2e-fb33-41c2-84cf-c62ac4b840d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAR1'])[1]/following::div[2]</value>
+      <webElementGuid>eb1fc16e-40b3-48e6-a523-d25ca7718b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BAR'])[1]/following::div[5]</value>
+      <webElementGuid>532bcb34-08ed-4a0e-9002-e104098ff778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QU2'])[1]/preceding::div[2]</value>
+      <webElementGuid>6e3d9b31-25ac-4ecb-bf33-a7bc6ecb6e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/div[15]/div</value>
+      <webElementGuid>d3e082b5-c8bb-447b-9397-9c3b994c96c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BAR2' or . = 'BAR2')]</value>
+      <webElementGuid>3e89371e-572d-4372-863b-c8733b3241c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

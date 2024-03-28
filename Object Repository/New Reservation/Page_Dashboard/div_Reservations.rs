@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Reservations</name>
+   <tag></tag>
+   <elementGuidId>42aba58c-b4bd-4cab-8c8e-bdb57137fb4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-item.dx-template-wrapper.dx-item-content.dx-treeview-item-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Reservations' or . = 'Reservations')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Reservations&quot;i >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>29ebec27-6c51-46f1-8cb1-799de0919d2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item dx-template-wrapper dx-item-content dx-treeview-item-content</value>
+      <webElementGuid>2e83fbe4-5098-4921-b5e3-1448429c9ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reservations</value>
+      <webElementGuid>4728d3a6-8114-4460-8d3b-423cba8343f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dx-99453828-4eb4-f457-a4f7-d9a85af77c9e&quot;)/div[@class=&quot;dx-item dx-treeview-item dx-state-hover&quot;]/div[@class=&quot;menu-item dx-template-wrapper dx-item-content dx-treeview-item-content&quot;]</value>
+      <webElementGuid>eaf2c0ff-42c8-44a8-86ba-36c140633c7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='dx-99453828-4eb4-f457-a4f7-d9a85af77c9e']/div/div</value>
+      <webElementGuid>68bde744-ffc0-4874-81cf-06cfa2f0785b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST01'])[1]/following::div[20]</value>
+      <webElementGuid>1cfbcc1f-4547-4fac-b4be-85c100c9bb80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PMS - Properties Management System'])[1]/following::div[34]</value>
+      <webElementGuid>21416c4c-0d7c-4506-86dc-f330b708209c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Front Desk'])[1]/preceding::div[2]</value>
+      <webElementGuid>3e3c7e1f-210e-4a6c-91bc-d64c03f7dfe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div</value>
+      <webElementGuid>6b2af5a8-6737-4dbd-943c-7b42b05f4f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Reservations' or . = 'Reservations')]</value>
+      <webElementGuid>61152aae-d9ce-4c8e-b6de-990b15149bc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

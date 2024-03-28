@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tentative</name>
+   <tag></tag>
+   <elementGuidId>71bad8b3-7918-4ed3-a25f-e3f0f515f491</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dx-template-wrapper.dx-item-content.dx-list-item-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dx-5c053080-aaa9-dd51-8a36-e33308a5281d']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;_ Tentative&quot;i] >> div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f795610b-3753-4b43-9e33-541312ca52a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-template-wrapper dx-item-content dx-list-item-content</value>
+      <webElementGuid>1b8eea5c-d208-4f30-873d-7999aeb7b790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tentative</value>
+      <webElementGuid>ea8b98e9-aaac-4a07-85bf-35c28131581a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dx-5c053080-aaa9-dd51-8a36-e33308a5281d&quot;)/div[@class=&quot;dx-template-wrapper dx-item-content dx-list-item-content&quot;]</value>
+      <webElementGuid>5931c6e7-ec41-4013-9720-561660aa7207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dx-5c053080-aaa9-dd51-8a36-e33308a5281d']/div</value>
+      <webElementGuid>dfe62038-6d47-40c6-bac3-75a136a971cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refreshing...'])[2]/following::div[3]</value>
+      <webElementGuid>d4262069-45d7-44b4-83fa-efcfa03bba65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release to refresh...'])[2]/following::div[4]</value>
+      <webElementGuid>cbdd0198-ad2a-42e5-ac9e-26ac0c374dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Definite'])[1]/preceding::div[2]</value>
+      <webElementGuid>b933ceec-9d86-4fc3-a985-186dcd360f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>a690a2cd-1f10-4191-8eaf-dfa69060e533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tentative' or . = 'Tentative')]</value>
+      <webElementGuid>0172eccf-3fe9-4e87-b130-577c1d59e3eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

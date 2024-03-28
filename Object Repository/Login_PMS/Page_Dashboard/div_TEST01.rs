@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TEST01</name>
+   <tag></tag>
+   <elementGuidId>7bf08036-e208-4597-8130-a92f1302c6c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.user-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='PMS - Properties Management System'])[1]/following::div[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;TEST01&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93c23bdd-4dac-484d-ad1a-ed76f8671186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-info</value>
+      <webElementGuid>0a945be0-9930-4463-b9ff-20e5acaa8184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TEST01</value>
+      <webElementGuid>32bdadf5-fb08-4a72-9146-e6bd14d726b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dx-viewport dx-theme-generic dx-theme-generic-typography dx-color-scheme-greenmist&quot;]/app-root[@class=&quot;screen-small&quot;]/app-side-nav-outer-toolbar[1]/app-header[@class=&quot;layout-header&quot;]/header[1]/dx-toolbar[@class=&quot;header-toolbar dx-toolbar dx-widget dx-visibility-change-handler dx-collection&quot;]/div[@class=&quot;dx-toolbar-items-container&quot;]/div[@class=&quot;dx-toolbar-after&quot;]/div[@class=&quot;dx-item dx-toolbar-item dx-toolbar-button dx-toolbar-item-auto-hide&quot;]/div[@class=&quot;dx-template-wrapper dx-item-content dx-toolbar-item-content&quot;]/dx-button[@class=&quot;user-button authorization dx-button dx-button-normal dx-button-mode-text dx-widget dx-state-active&quot;]/div[@class=&quot;dx-template-wrapper dx-button-content&quot;]/app-user-panel[1]/div[@class=&quot;user-panel&quot;]/div[@class=&quot;user-info&quot;]</value>
+      <webElementGuid>d384386b-276f-4ded-b4fe-4049d3551537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PMS - Properties Management System'])[1]/following::div[11]</value>
+      <webElementGuid>f81ebd00-572c-405b-bd62-1733c9b5af58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservations'])[1]/preceding::div[13]</value>
+      <webElementGuid>ee327538-6aaa-4a4c-9405-012221cbc443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-user-panel/div/div</value>
+      <webElementGuid>d171666a-5010-4bc1-8ac5-ff24b0bdd11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TEST01' or . = 'TEST01')]</value>
+      <webElementGuid>97370adc-d385-4bc2-8c67-e4e27354e6c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
